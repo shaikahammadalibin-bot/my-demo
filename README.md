@@ -6,4 +6,3 @@ Author: Mr.Ahamad,
 Age:18,
 <br>
 Note:Recently completed 12th and learning pythan.
-
